@@ -7,7 +7,7 @@ Kronk is an android based mobile app that presents to users the text "Hello from
 
 <img src="https://i.imgflip.com/6q2ijf.gif" width=200><br>
 
- 
+
 
 
 ### Required User Stories
