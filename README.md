@@ -1,22 +1,19 @@
-## NAME_OF_YOUR_APP_HERE
+Kronk
 
 ### App Description
-`TODO://` Add app description
+Kronk is an android based mobile app that presents to users the text "Hello from Nick". It also gives the user the ability to change the color of the font or backgronud via a button. It's not much but it's honest work.
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://imgflip.com/gif/6q2hy2" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
-- [ ] 1. User sees custom text in a label - Hello from {name}!
-- [ ] 2. User see's custom background color.
-- [ ] 3. User can tap a button to change the text color of the label.
+- [X] 1. User sees custom text in a label - Hello from {name}!
+- [X] 2. User see's custom background color.
+- [X] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [ ] 1. User can tap a button to change the color of the background view.  
+- [X] 1. User can tap a button to change the color of the background view.  
 - [ ] 2. User can tap a button to change the text string of the label - Android is Awesome!  
 - [ ] 3. User can tap on the background view to reset all views to default settings.  
 - [ ] 4. User can update the label text with custom text entered into the text field.  
