@@ -3,7 +3,7 @@ Kronk
 ### App Description
 Kronk is an android based mobile app that presents to users the text "Hello from Nick". It also gives the user the ability to change the color of the font or backgronud via a button. It's not much but it's honest work.
 
-
+ 
 <img src="https://imgflip.com/gif/6q2hy2" width=200><br/>
 
 
